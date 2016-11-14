@@ -1,3 +1,4 @@
+##Instagram
 a. login with facebook => facebook login page
   Method:GET
   Data: Username, Password
